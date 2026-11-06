@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_them"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/them_mon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_sap_xep_ten"
+        android:title="@string/sap_xep_ten"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sap_xep_gia"
+        android:title="@string/sap_xep_gia"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_xoa_het"
+        android:title="@string/xoa_het"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_muc_gia"
+        android:title="@string/muc_gia"
+        app:showAsAction="never" />
+</menu>

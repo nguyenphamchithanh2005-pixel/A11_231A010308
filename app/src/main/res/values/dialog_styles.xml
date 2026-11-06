@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NC3: tùy chỉnh màu cho MaterialAlertDialog -->
+    <style name="DialogCam" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <!-- Nền hộp thoại -->
+        <item name="colorSurface">#FFF3E0</item>
+        <item name="colorSurfaceContainerHigh">#FFF3E0</item>
+        <!-- Màu nút bấm, nút chọn (radio) -->
+        <item name="colorPrimary">#E65100</item>
+        <!-- Màu chữ tiêu đề và nội dung -->
+        <item name="colorOnSurface">#3E2723</item>
+        <item name="colorOnSurfaceVariant">#5D4037</item>
+    </style>
+</resources>
